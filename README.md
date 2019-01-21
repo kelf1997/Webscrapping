@@ -1,4 +1,4 @@
 # Webscrapping
-Script for webscrappinig to collect data on specific website.
+## Script for webscrappinig to collect data on specific website.
 
-Yamaha. e-Competition Web - yamaha-excel-scrap.py
+yamaha-excel-scrap.py ======> Yamaha. e-Competition Web  
